@@ -1,0 +1,30 @@
+/* Import css libraries */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Italianno|Metamorphous');
+
+body {
+  background-image: url('../img/wellness.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div#inner-header {
+  margin-top: 230px;
+  text-align: center;
+  line-height: 30px;
+}
+
+.slogan h3 {
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Italianno', cursive;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+
+.logo h1> a{
+  text-decoration: none;
+  color: #000;
+  font-weight: bolder;
+  font-family: 'Metamorphous', cursive;
+  letter-spacing: 4px;
+}
