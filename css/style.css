@@ -1,6 +1,7 @@
 /* Import css libraries */
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Italianno|Metamorphous');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css");
 
 body {
   background-image: url('../img/wellness.jpg');
