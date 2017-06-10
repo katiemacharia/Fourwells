@@ -34,3 +34,13 @@ div#inner-header {
   font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
   font-size: 20px;
 }
+
+#coming-soon a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#coming-soon a:hover {
+  color: orangered;
+  text-decoration: none;
+}

@@ -12,6 +12,15 @@ $(document).ready(function () {
     setTimeout(() => {
       addText();
     }, 4000); // 4000 ms => 4 seconds!
+    setTimeout(() => {
+      addSecondText();
+    }, 5000); // 4000 ms => 4 seconds!
+  }
+
+  function addSecondText() {
+    $("#coming-soon").append(
+      "<p>But if you'd like to leave us a message, drop it at <a no-ref=''>fourwells@info.org</a></p>"
+    )
   }
 
 })
