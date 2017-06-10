@@ -28,3 +28,9 @@ div#inner-header {
   font-family: 'Metamorphous', cursive;
   letter-spacing: 4px;
 }
+
+#coming-soon {
+  color: #000;
+  font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+  font-size: 20px;
+}
